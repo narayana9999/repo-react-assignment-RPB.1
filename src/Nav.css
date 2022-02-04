@@ -1,0 +1,22 @@
+.Navbar{
+    position: fixed;
+    top: 0;
+    display:flex;
+    background-color:rgb(198, 226, 248);
+    width: 100%;
+    justify-content: space-evenly;
+}
+.Navl{
+    margin:10px;
+    width:260px;
+    display: flex;
+    align-items:center;
+    justify-content:space-evenly; 
+    
+}
+.Navl > img{
+    height:50px;
+    width: 48px;
+    object-fit: contain;
+    border-radius: 10px;
+}
